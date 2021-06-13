@@ -14,14 +14,14 @@ I’m interested in learn about React, soon as possible.
 <li>
 <p>
 <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-I’m currently learning Angular, Bootstrap
+I’m currently learning Angular, Bootstrap & NodeJs
 </p>
 </li>
 </ul>
 
 
 <h3>Skills & Tools</h3>
-<p>Angular, JavaScript, TypeScript, HTML, CSS</p>
+<p>Angular, JavaScript, TypeScript, HTML, CSS, NodeJs</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jos%C3%A9-sperandio-2545351bb/" rel="nofollow">
