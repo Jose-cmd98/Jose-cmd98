@@ -1,7 +1,7 @@
 <h3>Hi, I'm Jose</h3>
 
 
-<p>A passionate Front-End Developer.</p>
+<p>A passionate Web Developer.</p>
 
 <ul>
 <li>
