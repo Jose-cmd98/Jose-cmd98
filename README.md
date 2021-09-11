@@ -14,7 +14,7 @@ I’m interested in learn about React, soon as possible.
 <li>
 <p>
 <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-I’m currently learning Angular, Bootstrap & NodeJs
+I’m currently learning Angular & NodeJs
 </p>
 </li>
 </ul>
