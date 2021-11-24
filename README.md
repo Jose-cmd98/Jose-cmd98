@@ -21,7 +21,7 @@ I’m currently learning Angular & NodeJs
 
 
 <h3>Skills & Tools</h3>
-<p>Angular, JavaScript, TypeScript, HTML, CSS, NodeJs</p>
+<p>React | Angular, JavaScript, TypeScript, HTML, CSS, NodeJs</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jos%C3%A9-sperandio-2545351bb/" rel="nofollow">
