@@ -14,7 +14,7 @@ I’m interested in learn deeply .NET, soon as possible.
 <li>
 <p>
 <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-I’m currently working with Angular
+I’m currently working with Angular | RXJS
 </p>
 </li>
 </ul>
